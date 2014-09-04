@@ -1,0 +1,19 @@
+{
+  "name": "labs.antwerpen.be",
+  "version": "0.0.0",
+  "description": "Our little website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/A-StadLabs/labs.antwerpen.be.git"
+  },
+  "author": "A-StadLabs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-StadLabs/labs.antwerpen.be/issues"
+  },
+  "homepage": "https://github.com/A-StadLabs/labs.antwerpen.be"
+}
